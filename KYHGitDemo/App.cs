@@ -12,5 +12,10 @@ namespace KYHGitDemo
         {
 
         }
+
+        class Dumy
+        {
+            public int MyNumber { get; set; }
+        }
     }
 }
